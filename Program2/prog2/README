@@ -1,0 +1,5 @@
+To run this program after running make, it must be invoked as follows:
+
+java SortTime [MAX ARRAY SIZE TO TEST] [SORTING ALGORITHM TO TEST]
+
+The first argument is the maximum array size to run the tests on. The second argument is which sorting algorithm to use. The number key is presented as a comment in the SortTime java file.
